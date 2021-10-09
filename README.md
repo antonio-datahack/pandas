@@ -1,7 +1,5 @@
 [DataFrame 1](https://github.com/antonio-datahack/pandas/blob/main/notebooks/DataFrames%201.ipynb)
 
-### Table of Contents
-
 1. Shared Methods and Attributes
 2. Select One Column from a DataFrame
 3. Select Two or More Columns from A DataFrame
@@ -18,8 +16,6 @@
 
 [DataFrame 2](https://github.com/antonio-datahack/pandas/blob/main/notebooks/DataFrames%202.ipynb)
 
-### Table of Contents
-
 1. Filter A DataFrame Based On A Condition
 2. Filter with More than One Condition (AND)
 3. Filter with More than One Condition (OR)
@@ -31,8 +27,6 @@
 9. The .unique() and .nunique() Methods
 
 [DataFrame 3](https://github.com/antonio-datahack/pandas/blob/main/notebooks/DataFrames%203.ipynb)
-
-### Table of Contents
 
 1. The .set_index() and .reset_index() Methods
 2. Retrieve Rows by Index Label with .loc[]
