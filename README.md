@@ -43,3 +43,8 @@
 13. A Review of the .apply() Method on Single Columns¶
 14. The .apply() Method with Row Values
 15. The .copy() Method
+
+
+### Annex
+
+[13 Most Important Pandas Functions for Data Science](https://www.analyticsvidhya.com/blog/2021/05/pandas-functions-13-most-important/)
