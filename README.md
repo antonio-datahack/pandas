@@ -1,3 +1,6 @@
+<img src="images/pandas.jpeg" width="300" height="70" />
+
+
 [DataFrame 1](https://github.com/antonio-datahack/pandas/blob/main/notebooks/DataFrames%201.ipynb)
 
 1. Shared Methods and Attributes
