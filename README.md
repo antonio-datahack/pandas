@@ -47,6 +47,17 @@
 14. The .apply() Method with Row Values
 15. The .copy() Method
 
+[Working with Text Data](https://github.com/antonio-datahack/pandas/blob/main/notebooks/Working%20with%20Text%20Data.ipynb)
+
+1. Common String Method - .lower(), .upper(), .title(), .len()
+2. The .str.replace() Method
+3. Filterig With String Methods
+4. More String Methods - .strip(), .lstrip(), and .rstrip()
+5. Invoke String Methods on DataFrame Index and Columns
+6. Split Strings by Characters with the str.split Method
+7. More Practice with Splits
+8. Exploring the expand and n Parameters of the str.split Method
+
 
 ### Annex
 
