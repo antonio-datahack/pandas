@@ -1,4 +1,4 @@
-<img src="images/pandas.jpeg" width="300" height="100" />
+<img src="images/pandas.jpeg" width="400" height="150" />
 
 
 [DataFrame 1](https://github.com/antonio-datahack/pandas/blob/main/notebooks/DataFrames%201.ipynb)
@@ -57,6 +57,24 @@
 6. Split Strings by Characters with the str.split Method
 7. More Practice with Splits
 8. Exploring the expand and n Parameters of the str.split Method
+
+[MultiIndex](https://github.com/antonio-datahack/pandas/blob/main/notebooks/MultiIndex.ipynb)
+
+1. Create A MultiIndex with the .set_index() Method
+2. The .get_level_values() Method
+3. Change Index Level Name with the set_names Method
+4. Extract Rows from a MultiIndex DataFrame
+5. The .transpose() Method
+6. The .swaplevel() Method
+7. The .sort_index() Method on a MultiIndex DataFrame
+8. The .stack() Method
+9. The .unstack() Method
+  * The .unstack() Method, Part 1
+  * The .unstack() Method, Part 2
+  * The .unstack() Method, Part 3
+10. The pivot Method
+11. The pivot_table() Method
+12. The pd.melt() Method
 
 
 ### Annex
