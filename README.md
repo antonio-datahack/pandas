@@ -76,6 +76,15 @@
 11. The pivot_table() Method
 12. The pd.melt() Method
 
+[Groupby](https://github.com/antonio-datahack/pandas/blob/main/notebooks/Groupby.ipynb)
+
+1. Intro to the Groupby Module
+2. The .groupby() Method
+3. Retrieve A Group with the .get_group() Method
+4. Methods on the Groupby Object and DataFrame Columns
+5. Grouping by Multiple Columns
+6. The .agg() Method --########--
+7. Iterating through Groups
 
 ### Annex
 
