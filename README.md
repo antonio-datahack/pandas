@@ -1,5 +1,27 @@
 <img src="images/pandas.jpeg" width="400" height="150" />
 
+[Series](https://github.com/antonio-datahack/pandas/blob/main/notebooks/Series.ipynb)
+
+1. Create A Series Object from A Python List
+2. Create A Series Object from a Dictionary
+3. Intro to Attributes
+4. Intro to Methods
+5. Parameters and Arguments
+6. Import Series with the read_csv Method
+7. The .head() and .tail() Methods
+8. Python Built-In Functions
+9. More Series Attributes
+10. The .sort_values() Method
+11. The inplace Parameter
+12. The .sort_index() Method
+13. Python's in Keyword
+14. Extract Values by Index Position
+15. Extract Values by Index Label
+16. The .get() Method on a Series
+17. Math Methods on Series Objects
+18. The .idxmax() and .idxmin() Methods
+19. The .value_counts() Method
+20. The .map() Method
 
 [DataFrame 1](https://github.com/antonio-datahack/pandas/blob/main/notebooks/DataFrames%201.ipynb)
 
