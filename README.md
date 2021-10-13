@@ -125,3 +125,8 @@
 ### Annex
 
 [13 Most Important Pandas Functions for Data Science](https://www.analyticsvidhya.com/blog/2021/05/pandas-functions-13-most-important/)
+
+
+#### The Pandas Category Data Type
+
+<img src="images/the_pandas_category_data_type.png" width="1400" height="900" />
