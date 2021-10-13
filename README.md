@@ -108,6 +108,20 @@
 6. The .agg() Method --########--
 7. Iterating through Groups
 
+[Merging, Joining and Concatenating](https://github.com/antonio-datahack/pandas/blob/main/notebooks/Merging%2C%20Joining%20and%20Concatenating.ipynb)
+
+1. The pd.concat() Method, Part 1
+2. The pd.concat() Method, Part 2
+3. The .append() Method
+4. Inner Joins, Part 1
+5. Inner Joins, Part 2
+6. Outer Joins
+7. Left Joins
+8. The left_on and right_on Parameters
+9. Merging by Indexes with the left_index and right_index Parameters
+10. The .join() Method
+11. The pd.merge() Method
+
 ### Annex
 
 [13 Most Important Pandas Functions for Data Science](https://www.analyticsvidhya.com/blog/2021/05/pandas-functions-13-most-important/)
