@@ -126,6 +126,8 @@
 
 [13 Most Important Pandas Functions for Data Science](https://www.analyticsvidhya.com/blog/2021/05/pandas-functions-13-most-important/)
 
+[Statistics for Categorical Data](https://www.codecademy.com/practice/tracks/dacp-summary-statistics/modules/stats-summary-statistics-for-categorical-data)
+
 
 #### The Pandas Category Data Type
 
