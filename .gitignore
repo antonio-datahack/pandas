@@ -1,0 +1,23 @@
+# Ignore Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Ignore data files
+data/
+
+# Ignore image files (if you want to ignore them)
+images/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore system files
+notebooks/.DS_Store
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment directories
+venv/
+env/
